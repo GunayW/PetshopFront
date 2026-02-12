@@ -1,0 +1,7 @@
+{
+  "name": "PetPulse",
+  "description": "A whimsical all-in-one platform for pet lovers featuring matching, shopping, healthcare, and community stories.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
